@@ -1,4 +1,4 @@
-# final
+# StoreManagement
 
 基于 Spring Boot 的店铺信息展示与后台管理项目。前台通过 Thymeleaf 分页展示店铺信息，后台结合 Layui 提供信息维护界面，使用 MySQL 保存用户与店铺数据。
 
